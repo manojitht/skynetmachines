@@ -52,5 +52,11 @@ export const machines = [
         name: 'T - 5000',
         username: 'Bexoito',
         email: 'bexoito@skynet.com'
+    },
+    {
+        id: 58,
+        name: 'T - 6000',
+        username: 'Ongeri',
+        email: 'ongeri@skynet.com'
     }
 ];
